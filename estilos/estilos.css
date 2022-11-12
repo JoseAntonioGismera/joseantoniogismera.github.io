@@ -1,6 +1,7 @@
 table {
     border: rgb(18, 233, 169) 5px solid;
     text-align: center;
+    ;
 }
     td, th {
         border: rgba(162, 170, 10, 0.541) 3px solid;
@@ -16,7 +17,19 @@ thead {
     font-weight: 600;
 }
 
-h1{
+h1,h2{
     text-align: center;
 }
-
+ul {
+    list-style-type: none;
+    text-align: center
+  }
+  li {
+    background-color: #098f98;
+    border: #18045f 3px solid;
+    display: inline;
+    margin-right: 10px;
+  }
+p{
+    text-align: left;
+}
