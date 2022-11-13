@@ -33,3 +33,7 @@ ul {
 p{
     text-align: left;
 }
+video {
+    position: static;
+    left: 0;
+    top: 0;}
