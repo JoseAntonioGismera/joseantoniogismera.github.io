@@ -33,3 +33,10 @@ ul {
 p{
     text-align: left;
 }
+video{ 
+    position: static;
+  right: 0;
+  bottom: 0;
+  min-width: 105%;
+  min-height: 100%;
+}
