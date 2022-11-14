@@ -1,7 +1,7 @@
 table {
     border: rgb(18, 233, 169) 5px solid;
     text-align: center;
-    ;
+    vertical-align: middle;
 }
     td, th {
         border: rgba(162, 170, 10, 0.541) 3px solid;
@@ -39,5 +39,5 @@ video {
     top: 0;}
 
 body{
-    background-color: rgb(110, 243, 166);
+    background-color: aliceblue;
 }
