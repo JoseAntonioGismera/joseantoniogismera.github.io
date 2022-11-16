@@ -43,10 +43,7 @@ video {
 body{
     background-color: aliceblue;
 }
-span.letragrande{
-    font-variant: all-small-caps;
-    
-}
+
 
 span.sporting{
     background-color: #137905;
@@ -78,10 +75,7 @@ h2{
     text-align: center;
     text-shadow: #3355ab 6px 6px 8px;
 }
-span.otraletra{
-    font-variant: small-caps;
-    
-}
+
 span.coche{
     display: block;
     width: 50%;
