@@ -33,6 +33,7 @@ ul {
 p{
     text-align: center;
     font-variant: small-caps;
+    
 }
 video {
     position: static;
@@ -44,6 +45,7 @@ body{
 }
 span.letragrande{
     font-variant: all-small-caps;
+    text-align: center;
 }
 
 span.sporting{
@@ -78,6 +80,7 @@ h2{
 }
 span.otraletra{
     font-variant: small-caps;
+    text-align: center;
 }
 span.coche{
     display: block;
