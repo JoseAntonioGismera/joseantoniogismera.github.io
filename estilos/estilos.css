@@ -19,7 +19,7 @@ caption {
 }
 thead {
     font-weight: 600;
-    font-variant: small-caps;
+    font-variant: all-small-caps;
 }
 
 ul {
