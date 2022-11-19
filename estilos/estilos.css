@@ -110,3 +110,9 @@ p.presentacion{
     border: rgb(186, 12, 221) 5px dotted;
     background-color: beige;
 }
+summary{
+    font-weight: bold;
+}
+p.titulos{
+      text-decoration: underline;
+}
