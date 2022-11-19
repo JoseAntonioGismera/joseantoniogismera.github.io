@@ -27,7 +27,7 @@ ul {
     text-align: center
   }
   li {
-    background-color: #098f98;
+    background-color: #23ccd8;
     border: #18045f 3px solid;
     display: inline;
     margin-right: 10px;
@@ -40,7 +40,7 @@ p{
 video {
     width: 12cm;
     height: 10cm;
-    margin-left: 25%;
+    
 }
 
 
@@ -105,7 +105,8 @@ details{
     background-color: beige;
     
 }
-span.presentacion{
+p.presentacion{
     color: black;
-   
+    border: rgb(186, 12, 221) 5px dotted;
+    background-color: beige;
 }
